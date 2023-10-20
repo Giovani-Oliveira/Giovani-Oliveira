@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giovani-Oliveira
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Junior Data Science Projects as a Freelancer or Employee
+- 💞️ I’m looking to collaborate on Data Science Projects as a Freelancer or Employee
 - 📫 How to reach me: https://www.linkedin.com/in/giovani-oliveira/
 
 <!---
